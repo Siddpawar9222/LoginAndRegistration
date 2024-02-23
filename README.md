@@ -1,4 +1,4 @@
-# Image Upload and Download Application
+# Signup and Login Application
 
 ![](https://img.shields.io/badge/build-success-brightgreen.svg)
 
@@ -14,7 +14,7 @@
 
 ## Overview
 
-The ImageUploadAndDownload application is a web-based - Made a simple web app for easy signup and login using Servlets and JSP.
+The Signup and Login Application is a web-based - Made a simple web app for easy signup and login using Servlets and JSP.
 - Used JDBC to securely interact with the database, ensuring smooth user management.
 - Explored different ways to manage user sessions and various JSP tags for a better user experience.
 
